@@ -1,0 +1,12 @@
+{
+  "feature": "Weekly Action Planner",
+  "example": {
+    "monday": "Python Functions - 2 hours",
+    "tuesday": "Python Exercises - 2 hours",
+    "wednesday": "SQL Fundamentals - 2 hours",
+    "thursday": "SQL Practice - 2 hours",
+    "friday": "Mini Project - 2 hours",
+    "saturday": "Project Development - 3 hours",
+    "sunday": "Review and Assessment - 2 hours"
+  }
+}
