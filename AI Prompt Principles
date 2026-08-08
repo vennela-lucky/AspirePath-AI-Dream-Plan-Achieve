@@ -1,0 +1,9 @@
+{
+  "ai_prompt_principles": {
+    "personalization": "Use the student's profile rather than generic recommendations.",
+    "constraint_awareness": "Never ignore budget, time, location or eligibility constraints.",
+    "explainability": "Explain why each recommendation was generated.",
+    "safety": "Do not guarantee admission, employment, salary or career success.",
+    "accuracy": "Do not invent factual information."
+  }
+}
