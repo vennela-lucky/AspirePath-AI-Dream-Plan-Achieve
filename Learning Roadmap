@@ -1,0 +1,26 @@
+{
+  "feature": "Personalized Learning Roadmap",
+  "stages": [
+    {
+      "period": "0-3 Months",
+      "focus": "Foundation"
+    },
+    {
+      "period": "3-6 Months",
+      "focus": "Core Skills"
+    },
+    {
+      "period": "6-9 Months",
+      "focus": "Advanced Skills"
+    },
+    {
+      "period": "9-12 Months",
+      "focus": "Projects and Portfolio"
+    },
+    {
+      "period": "12+ Months",
+      "focus": "Internship and Job Preparation"
+    }
+  ],
+  "adaptation": "The roadmap duration should change according to the student's available study time and target timeline."
+}
