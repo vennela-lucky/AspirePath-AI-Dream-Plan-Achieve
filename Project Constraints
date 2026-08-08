@@ -1,0 +1,39 @@
+{
+  "constraints": [
+    {
+      "name": "AI Hallucination",
+      "risk": "AI may produce incorrect information.",
+      "mitigation": "Avoid unsupported factual claims and encourage official verification."
+    },
+    {
+      "name": "Dynamic Information",
+      "risk": "Course fees, scholarships and admission rules may change.",
+      "mitigation": "Ask users to verify current information through official sources."
+    },
+    {
+      "name": "Employment Guarantee",
+      "risk": "AI cannot guarantee employment or salary.",
+      "mitigation": "Present recommendations as guidance only."
+    },
+    {
+      "name": "Limited Student Data",
+      "risk": "Students may provide incomplete or inaccurate information.",
+      "mitigation": "Identify missing information and explain its impact."
+    },
+    {
+      "name": "Bias",
+      "risk": "AI recommendations may unintentionally favor specific careers or backgrounds.",
+      "mitigation": "Provide multiple pathways and alternatives."
+    },
+    {
+      "name": "Privacy",
+      "risk": "Students may provide sensitive personal information.",
+      "mitigation": "Collect only information necessary for career planning."
+    },
+    {
+      "name": "Financial Advice",
+      "risk": "AI recommendations may be interpreted as financial advice.",
+      "mitigation": "Provide general cost guidance and encourage verification."
+    }
+  ]
+}
