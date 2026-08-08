@@ -1,0 +1,15 @@
+{
+  "feature": "Career Risk Analysis",
+  "risks": [
+    {
+      "risk": "Insufficient Mathematics",
+      "impact": "High",
+      "solution": "Complete a statistics and mathematics foundation before advanced machine learning."
+    },
+    {
+      "risk": "Limited Portfolio",
+      "impact": "Medium",
+      "solution": "Build three progressively difficult projects."
+    }
+  ]
+}
