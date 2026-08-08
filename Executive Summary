@@ -1,0 +1,14 @@
+{
+  "section": "Executive Summary",
+  "project_name": "AspiraPath AI",
+  "description": "AspiraPath AI is a Generative AI-powered education and career planning application designed to bridge the gap between a student's career aspiration and an achievable career pathway.",
+  "core_philosophy": "Don't simply tell students what career to choose. Show them how to realistically move from their current position to their desired destination.",
+  "core_flow": [
+    "Aspiration",
+    "Analysis",
+    "Skill Gap",
+    "Options",
+    "Roadmap",
+    "Action Plan"
+  ]
+}
