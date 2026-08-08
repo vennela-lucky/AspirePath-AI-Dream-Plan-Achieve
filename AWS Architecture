@@ -1,0 +1,16 @@
+{
+  "architecture": {
+    "platform": "AWS PartyRock",
+    "ai_service": "Amazon Bedrock",
+    "flow": [
+      "User Interface",
+      "Student Inputs",
+      "Prompt Components",
+      "Amazon Bedrock",
+      "Foundation Model",
+      "AI Analysis",
+      "Personalized Recommendations",
+      "Personalized Output"
+    ]
+  }
+}
