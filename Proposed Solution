@@ -1,0 +1,24 @@
+{
+  "section": "Proposed Solution",
+  "description": "AspiraPath AI collects a student's academic profile, skills, career aspirations, financial limitations, time availability and geographic constraints to generate a personalized career pathway.",
+  "inputs": [
+    "Academic Profile",
+    "Skills",
+    "Career Aspiration",
+    "Financial Constraints",
+    "Time Constraints",
+    "Geographic Constraints"
+  ],
+  "outputs": [
+    "Career Feasibility Analysis",
+    "Skill Gap Analysis",
+    "Education Pathway",
+    "Learning Roadmap",
+    "Certification Roadmap",
+    "Project Recommendations",
+    "Financial Guidance",
+    "Weekly Action Plan",
+    "Alternative Career Paths",
+    "Career Readiness Indicator"
+  ]
+}
