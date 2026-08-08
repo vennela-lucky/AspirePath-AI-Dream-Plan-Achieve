@@ -1,0 +1,15 @@
+{
+  "section": "Core Innovation",
+  "innovation_name": "Constraint-Aware Career Engine",
+  "description": "The system generates career pathways based not only on the student's aspiration but also on real-world limitations.",
+  "constraints_considered": [
+    "Education",
+    "Skills",
+    "Budget",
+    "Study Time",
+    "Location",
+    "Relocation",
+    "Timeline"
+  ],
+  "principle": "Constraint → Impact → Workaround → Alternative Pathway"
+}
