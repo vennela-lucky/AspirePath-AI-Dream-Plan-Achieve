@@ -1,0 +1,10 @@
+{
+  "feature": "Certification Roadmap",
+  "stages": [
+    "Foundation Certification",
+    "Intermediate Certification",
+    "Specialization Certification",
+    "Professional Certification"
+  ],
+  "disclaimer": "Certifications should not be presented as guarantees of employment."
+}
