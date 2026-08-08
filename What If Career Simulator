@@ -1,0 +1,18 @@
+{
+  "feature": "What-If Career Simulator",
+  "purpose": "Recalculate the student's career pathway when one or more constraints change.",
+  "scenarios": [
+    "Budget Reduction",
+    "Reduced Study Time",
+    "No Relocation",
+    "Shorter Career Timeline"
+  ],
+  "workflow": [
+    "Original Goal",
+    "Change Constraint",
+    "Recalculate Feasibility",
+    "Identify Impact",
+    "Modify Roadmap",
+    "Generate Alternative"
+  ]
+}
