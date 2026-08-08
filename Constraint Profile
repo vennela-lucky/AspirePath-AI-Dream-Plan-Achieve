@@ -1,0 +1,25 @@
+{
+  "feature": "Constraint Profile",
+  "financial_constraints": [
+    "Maximum Education Budget",
+    "Monthly Learning Budget",
+    "Need for Financial Assistance",
+    "Preference for Free Resources"
+  ],
+  "time_constraints": [
+    "Hours Available Per Day",
+    "Days Available Per Week",
+    "Target Completion Period"
+  ],
+  "geographic_constraints": [
+    "Preferred Location",
+    "Willingness to Relocate",
+    "Online or Offline Preference"
+  ],
+  "academic_constraints": [
+    "Current Qualification",
+    "Academic Percentage",
+    "Required Subjects",
+    "Entrance Examination Requirements"
+  ]
+}
