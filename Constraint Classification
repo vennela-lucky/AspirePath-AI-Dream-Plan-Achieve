@@ -1,0 +1,16 @@
+{
+  "feature": "Constraint Classification",
+  "levels": {
+    "green": "Manageable",
+    "yellow": "Requires Improvement or Planning",
+    "red": "Significant Barrier"
+  },
+  "example": {
+    "budget": "green",
+    "programming_skills": "yellow",
+    "mathematics": "yellow",
+    "relocation": "red",
+    "academic_eligibility": "green"
+  },
+  "principle": "The system should not simply reject a student because of a constraint. It should identify the impact and provide a workaround or alternative pathway."
+}
