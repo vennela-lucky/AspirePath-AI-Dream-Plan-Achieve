@@ -1,0 +1,29 @@
+{
+  "feature": "Project Generator",
+  "project_levels": {
+    "beginner": [
+      "Student Result Analyzer",
+      "Expense Tracker",
+      "Quiz Application"
+    ],
+    "intermediate": [
+      "Recommendation System",
+      "E-Commerce Analytics",
+      "Sentiment Analysis"
+    ],
+    "advanced": [
+      "AI Career Recommendation System",
+      "Fraud Detection System",
+      "Generative AI Application"
+    ]
+  },
+  "project_output_fields": [
+    "Project Title",
+    "Problem Statement",
+    "Technologies",
+    "Difficulty",
+    "Learning Objectives",
+    "Expected Output",
+    "Portfolio Value"
+  ]
+}
