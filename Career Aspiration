@@ -1,0 +1,17 @@
+{
+  "feature": "Career Aspiration",
+  "purpose": "Capture the student's desired career destination.",
+  "inputs": [
+    "Dream Career",
+    "Target Job Role",
+    "Preferred Industry",
+    "Career Motivation",
+    "Expected Timeline"
+  ],
+  "example": {
+    "dream_career": "Data Scientist",
+    "target_job": "Data Scientist",
+    "industry": "Technology",
+    "timeline": "2 years"
+  }
+}
