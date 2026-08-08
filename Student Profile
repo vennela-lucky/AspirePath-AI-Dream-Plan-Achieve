@@ -1,0 +1,17 @@
+{
+  "feature": "Student Profile",
+  "purpose": "Create a personalized student profile for career planning.",
+  "inputs": [
+    "Name",
+    "Age",
+    "Location",
+    "Education",
+    "Percentage or CGPA",
+    "Current Year",
+    "Subjects",
+    "Technical Skills",
+    "Soft Skills",
+    "Certifications",
+    "Projects"
+  ]
+}
