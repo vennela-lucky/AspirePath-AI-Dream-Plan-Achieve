@@ -1,0 +1,17 @@
+{
+  "section": "Problem Statement",
+  "problem": "Students often know what career they want but do not know the practical steps required to reach it.",
+  "common_questions": [
+    "What qualifications are required?",
+    "What skills should I learn?",
+    "What skills am I missing?",
+    "Which courses should I take?",
+    "Which certifications are useful?",
+    "What projects should I build?",
+    "How much will the pathway cost?",
+    "How much time will I need?",
+    "Do I need to relocate?",
+    "What alternative career paths are available?"
+  ],
+  "existing_gap": "Many career guidance systems provide generic recommendations without considering the student's individual constraints."
+}
