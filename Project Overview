@@ -1,0 +1,15 @@
+{
+  "project_name": "AspiraPath AI",
+  "title": "Education & Careers: From Aspiration to Achievable",
+  "tagline": "Dream it. Plan it. Achieve it.",
+  "platform": "AWS PartyRock",
+  "ai_foundation": "Amazon Bedrock / Foundation Models through PartyRock",
+  "application_type": "Generative AI Career & Education Guidance Platform",
+  "target_users": [
+    "Students",
+    "Graduates",
+    "Career switchers",
+    "Educators",
+    "Career counselors"
+  ]
+}
