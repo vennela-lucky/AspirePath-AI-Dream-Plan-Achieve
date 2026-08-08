@@ -1,0 +1,24 @@
+{
+  "feature": "Career Feasibility Analysis",
+  "evaluation_dimensions": [
+    "Academic Suitability",
+    "Skill Suitability",
+    "Financial Feasibility",
+    "Time Feasibility",
+    "Geographic Feasibility",
+    "Career Competition"
+  ],
+  "output": {
+    "career_goal": "Data Scientist",
+    "overall_feasibility": "Achievable With Development",
+    "academic_fit": "Good",
+    "technical_readiness": "Moderate",
+    "financial_feasibility": "Good With Low-Cost Pathway",
+    "time_feasibility": "Moderate",
+    "major_risks": [
+      "Statistics Knowledge",
+      "Limited Project Experience",
+      "Limited Study Time"
+    ]
+  }
+}
