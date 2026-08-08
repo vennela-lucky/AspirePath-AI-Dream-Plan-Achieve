@@ -1,0 +1,21 @@
+{
+  "feature": "Scholarship and Financial Assistance Guidance",
+  "inputs": [
+    "Academic Performance",
+    "Education Level",
+    "Location",
+    "Budget",
+    "Course",
+    "Financial Constraints"
+  ],
+  "recommendation_categories": [
+    "Scholarship Categories",
+    "Financial Assistance Strategies",
+    "Government Scholarship Categories",
+    "Institution-Level Support",
+    "Low-Cost Alternatives",
+    "Free Learning Resources"
+  ],
+  "safety_rule": "Do not fabricate scholarship names, eligibility requirements, deadlines or monetary amounts.",
+  "verification_message": "Users should verify eligibility and deadlines through the official scholarship provider."
+}
