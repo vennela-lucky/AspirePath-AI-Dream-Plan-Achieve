@@ -1,0 +1,10 @@
+{
+  "feature": "Skill Prioritization",
+  "priority_levels": {
+    "priority_1": "Foundation",
+    "priority_2": "Core",
+    "priority_3": "Advanced",
+    "priority_4": "Differentiators"
+  },
+  "description": "Skills are prioritized according to their importance and dependency within the target career pathway."
+}
