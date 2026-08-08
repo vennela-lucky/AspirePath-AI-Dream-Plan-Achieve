@@ -1,0 +1,45 @@
+{
+  "feature": "Education Pathway Generator",
+  "pathways": [
+    {
+      "name": "Traditional Path",
+      "sequence": [
+        "Degree",
+        "Specialization",
+        "Certification",
+        "Projects",
+        "Internship",
+        "Job"
+      ]
+    },
+    {
+      "name": "Skill First Path",
+      "sequence": [
+        "Self Learning",
+        "Projects",
+        "Certification",
+        "Internship",
+        "Job"
+      ]
+    },
+    {
+      "name": "Affordable Path",
+      "sequence": [
+        "Free Resources",
+        "Open Source Projects",
+        "Portfolio",
+        "Internship",
+        "Employment"
+      ]
+    },
+    {
+      "name": "Alternative Path",
+      "sequence": [
+        "Related Career",
+        "Work Experience",
+        "Specialization",
+        "Target Career"
+      ]
+    }
+  ]
+}
