@@ -1,0 +1,36 @@
+{
+  "feature": "Skill Gap Analysis",
+  "purpose": "Compare the student's current skills with the skills required for the target career.",
+  "example": [
+    {
+      "skill": "Python",
+      "current_level": 2,
+      "required_level": 4,
+      "gap": "High"
+    },
+    {
+      "skill": "SQL",
+      "current_level": 1,
+      "required_level": 4,
+      "gap": "High"
+    },
+    {
+      "skill": "Statistics",
+      "current_level": 2,
+      "required_level": 4,
+      "gap": "Medium"
+    },
+    {
+      "skill": "Machine Learning",
+      "current_level": 0,
+      "required_level": 4,
+      "gap": "High"
+    },
+    {
+      "skill": "Communication",
+      "current_level": 3,
+      "required_level": 4,
+      "gap": "Medium"
+    }
+  ]
+}
